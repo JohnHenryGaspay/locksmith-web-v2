@@ -2,7 +2,7 @@ var cacheName = 'progressive app';
 var filesToCache = [
   '/',
   '/index.html',
-  '/ss/grayscale.min.css',
+  '/css/grayscale.min.css',
   '/js/grayscale.min.js'
 ];
 
